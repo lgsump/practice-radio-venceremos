@@ -22,5 +22,8 @@ For many of these Latin American countries during their revolutions against the 
 <br>
 <h3>Bibliography</h3>
 <br>
+<br>
 Ramos, Carlos Guillermo. “State Reform after the Peace Accords - Berghof-Foundation.org.” Berghof Foundation, 2015. https://berghof-foundation.org/files/publications/Paper-1-El-Salvador-english-layout-final.pdf. 
+<br>
+<br>
 Lopez Vigil, Jose Ignacio. “Rebel Radio: The Story of El Salvador 's Radio Venceremos by Jose Ignacio Lopez Vigil.” Publishers Weekly, 1995. https://www.publishersweekly.com/978-1-880684-21-4. 
