@@ -147,9 +147,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://media.sas.upenn.edu/pennsound/authors/Williams-WC/01_Columbia-Univ_01-09-42/Williams-WC_01_The-Red-Wheelbarrow_Columbia-Univ_01-09-42.mp3",
-                  "type": "Sound",
-                  "format": "audio/mp3",
+                  "id": "https://www.youtube.com/watch?v=K_rAKw7q6RY",
                     "duration": 308
                 },
                 "target": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/canvas-1/canvas"
