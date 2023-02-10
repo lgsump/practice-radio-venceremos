@@ -3,21 +3,6 @@
     "id": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Radio Venceremos" ] },
-    "homepage": [
-      {
-        "id": "https://writing.upenn.edu/pennsound/",
-        "type": "Text",
-        "label": { "en": [ "Radio Venceremos" ] },
-        "format": "text/html"
-      }
-    ],
-    "provider": [
-      {
-        "id": "https://writing.upenn.edu/pennsound/",
-        "type": "Agent",
-        "label": { "en": [ "Pennsound" ] }
-      }
-    ],
     "items": [
       {
         "id": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/canvas-1/canvas",
