@@ -147,7 +147,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://www.youtube.com/watch?v=K_rAKw7q6RY",
+                  "id": "youtube.com/watch?v=K_rAKw7q6RY",
                     "duration": 309
                 },
                 "target": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/canvas-1/canvas"
