@@ -5,7 +5,7 @@
 layout: home
 ---
 <br>
-<h2> <i>Radio Venceremos</i></h2>
+<h2> <i>The Power, Utility, and Reality of Radio in Revolution</i></h2>
 <hr>
 <img width="363" alt="Screen Shot 2023-02-10 at 1 53 27 PM" src="https://user-images.githubusercontent.com/122332459/218185277-c7c72884-5687-4075-bd2b-d6d31c60c58a.png">
 <br>
