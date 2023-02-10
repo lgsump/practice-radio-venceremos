@@ -43,6 +43,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-tbd.json",
+            "label": {
+              "none": ["TBD"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-37-178202.json",
             "label": {
               "none": ["37.178202"]
