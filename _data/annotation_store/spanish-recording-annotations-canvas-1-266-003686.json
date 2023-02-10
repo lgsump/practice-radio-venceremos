@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-266-003686.json",
+  "type": "AnnotationPage",
+  "label": "266.003686",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spanish-recording-annotations-canvas-1-266-003686-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Aunque la realidad es que en El Salvador gobiernan los militares que torturan y violan los derechos humanos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266.003686,275.191135"
+        }
+      }
+    }
+  ]
+}

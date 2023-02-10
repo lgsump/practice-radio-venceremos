@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-292-785827.json",
+  "type": "AnnotationPage",
+  "label": "292.785827",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spanish-recording-annotations-canvas-1-292-785827-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Venceremos, venceremos, mil cadenas habrá que romper. Venceremos, venceremos, la miseria sabremos vencer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "292.785827,326.872469"
+        }
+      }
+    }
+  ]
+}

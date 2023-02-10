@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-279-944081.json",
+  "type": "AnnotationPage",
+  "label": "279.944081",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spanish-recording-annotations-canvas-1-279-944081-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ametralladora",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "279.944081,292.127276"
+        }
+      }
+    }
+  ]
+}

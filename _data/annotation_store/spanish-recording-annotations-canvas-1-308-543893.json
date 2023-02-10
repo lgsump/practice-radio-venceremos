@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-308-543893.json",
+  "type": "AnnotationPage",
+  "label": "308.543893",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spanish-recording-annotations-canvas-1-308-543893-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "De esta manera Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional llega al final de sus emisiones de esta hora. Radio Venceremos todos los días en el aire de 6 a 7  en la mañana y de 6 a 7 en la tarde. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "308.543893"
+        }
+      }
+    }
+  ]
+}

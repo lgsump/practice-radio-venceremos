@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/spanish-recording-annotations-canvas-1-114-387607.json",
+  "type": "AnnotationPage",
+  "label": "114.387607",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "spanish-recording-annotations-canvas-1-114-387607-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La semana pasada en la población de Corinto en Morazán se produjo un enfrentamiento entre guardias nacionales contra los patrulleros paramilitares, resultando heridos dos agentes de la guardia nacional. Posteriormente llego un helicóptero y desarmaron a todos los paramilitares y se llevaron las armas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114.387607,136.786239"
+        }
+      }
+    }
+  ]
+}
