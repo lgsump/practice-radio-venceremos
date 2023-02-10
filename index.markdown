@@ -11,4 +11,4 @@ layout: home
 From "R-Radio Venceremos" on Facebook.
 <br>
 <br>
-Radio Venceremos was the radio-broadcasted program that served as propaganda and commentary against the oppression of the Salvadoran government. Radio Venceremos', or ‘We Will Win’ in English, served as a tool for the FMLN to coordinate and communicate with Salvadorans in the revolutionary effort and how they can help, but also served as way to spread news and keep people up to date on the government’s atrocities and recent attacks.
+<i>Radio Venceremos</i> was the radio-broadcasted program that served as propaganda and commentary against the oppression of the Salvadoran government. <i>Radio Venceremos</i>, or ‘We Will Win’ in English, served as a tool for the FMLN to coordinate and communicate with Salvadorans in the revolutionary effort and how they can help, but also served as way to spread news and keep people up to date on the government’s atrocities and recent attacks.
