@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Spanish Recording Annotations" ] },
+    "homepage": [
+      {
+        "id": "https://www.youtube.com/watch?v=K_rAKw7q6RY",
+        "type": "Text",
+        "label": { "en": [ "Spanish Recording Annotations" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "youtube.com",
+        "type": "Agent",
+        "label": { "en": [ "Youtube" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 309,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.youtube.com/watch?v=K_rAKw7q6RY",
+                    "duration": 309
+                },
+                "target": "https://lgsump.github.io/practice-radio-venceremos/spanish-recording-annotations/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
