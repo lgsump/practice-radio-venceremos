@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/radio-venceremos-canvas-1-216-283370.json",
+  "type": "AnnotationPage",
+  "label": "216.283370",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "radio-venceremos-canvas-1-216-283370-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El exmandatario afirmo que el problema en America Latina no es el comunismo sino el respecto a los derechos. Así mismo, dijo que al identificarse la linea política de Venezuela con la nueva política del gobierno de Estados Unidos, el país suramericano esta cayendo en una grave confusion.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216.283370,241.436909"
+        }
+      }
+    }
+  ]
+}

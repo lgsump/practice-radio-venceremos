@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/radio-venceremos-canvas-1-161-388306.json",
+  "type": "AnnotationPage",
+  "label": "161.388306",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "radio-venceremos-canvas-1-161-388306-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ante los comentarios de la población quisieron ocultar sus fuertes contradicciones afirmando que habían sido atacados por mas de 200 guerrilleros.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.388306,174.159986"
+        }
+      }
+    }
+  ]
+}

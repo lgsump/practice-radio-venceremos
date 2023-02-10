@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/radio-venceremos-canvas-1-339-426076.json",
+  "type": "AnnotationPage",
+  "label": "339.426076",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "radio-venceremos-canvas-1-339-426076-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unidos para combatir hasta la victoria final, revolución o muerte, venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/radio-venceremos/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "339.426076,348.366468"
+        }
+      }
+    }
+  ]
+}
