@@ -1,8 +1,8 @@
 ---
 layout: item
-title: Radio Venceremos
-manifest_name: radio-venceremos
-permalink: radio-venceremos
+title: Spanish Recording Annotations
+manifest_name: spanish-recording-annotations
+permalink: spanish-recording-annotations
 external_manifest_url: 
 
 ---
