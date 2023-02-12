@@ -23,6 +23,16 @@
         "id": "https://lgsump.github.io/practice-radio-venceremos/test-for-vera-s-new-project/canvas-1/canvas",
         "type": "Canvas",
         "duration": 405,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/test-for-vera-s-new-project-canvas-1-test.json",
+            "label": {
+              "none": ["Test"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/practice-radio-venceremos/test-for-vera-s-new-project/canvas-1/paintings",
