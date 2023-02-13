@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/practice-radio-venceremos/test-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "test " ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll113/id/70",
+        "type": "Text",
+        "label": { "en": [ "test " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center Digital Collections" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/practice-radio-venceremos/test-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1781,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/test--canvas-1-test-for-vera-s-new-project-canvas-1-test.json",
+            "label": {
+              "none": ["Test"]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://lgsump.github.io/practice-radio-venceremos/test-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/practice-radio-venceremos/test-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll113/71.mp3/byte/json",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1781
+                },
+                "target": "https://lgsump.github.io/practice-radio-venceremos/test-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
