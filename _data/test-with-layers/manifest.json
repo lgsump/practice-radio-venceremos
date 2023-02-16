@@ -32,6 +32,14 @@
               "none": [""]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/test-with-layers-canvas-1-none.json",
+            "label": {
+              "none": ["None"]
+            }
+          }
         ],
         "items": [
           {
