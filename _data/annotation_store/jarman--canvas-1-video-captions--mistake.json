@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-video-captions--mistake.json",
+  "type": "AnnotationPage",
+  "label": "Video captions, mistake",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jarman--canvas-1-video-captions--mistake-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The rainbow is fallen",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.41,38.1"
+        }
+      }
+    }
+  ]
+}

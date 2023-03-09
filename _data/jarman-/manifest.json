@@ -23,6 +23,64 @@
         "id": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 105,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-music-script.json",
+            "label": {
+              "none": ["Music script"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-video-captions.json",
+            "label": {
+              "none": ["Video captions"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-original-poem--changed.json",
+            "label": {
+              "none": ["Original poem, changed"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-commentary.json",
+            "label": {
+              "none": ["Commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-original-poem.json",
+            "label": {
+              "none": ["Original poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-video-captions--mistake.json",
+            "label": {
+              "none": ["Video captions, mistake"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-original-poem--omitted.json",
+            "label": {
+              "none": ["Original poem, omitted"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/paintings",

@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/practice-radio-venceremos/annotations/jarman--canvas-1-original-poem--omitted.json",
+  "type": "AnnotationPage",
+  "label": "Original poem, omitted",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jarman--canvas-1-original-poem--omitted-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[All our memories— the wild night fucking you on the floor of Heaven—]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38.2,38.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jarman--canvas-1-original-poem--omitted-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "My friend Howard Brookner dies in New York. A letter falls through the door. Words forget their sweet meaning, drowned by time, no one remembers the old story. How can anything endure the terrible rising of the sun, the death of a thousand summers?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.02,0.03"
+        }
+      }
+    }
+  ]
+}
