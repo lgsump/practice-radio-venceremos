@@ -1,0 +1,28 @@
+9.917962	22.482682	Ametralladora
+36.875846	63.883719	CSUCA exige libertad de refugiados salvadorenos detenidos en Honduras. El Consejo Superior Universitario Centroamericano hizo un llamado a la autoridades hondurenas para que respeten la vida e intergridad de los refugiados salvadorenos detenidos y exigio su inmediata libertad.  
+63.887782	102.315478	Y asi mismo, a la preocupacion de la Universidad Autonoma de Honduras, ante la detencion y desaparicion de 14 refugiados salvadorenos en Tegucigalpa, entre los que se encuentran estudiantes universitarios y cuatro ninos. Agrega el comunicado que el hecho se ha admitido inicialmente por las autoridades hondurenas y negado por varios puestos del ejercito hondureno, lo cual aumenta la preocupacion por la seguridad personal de estos compatriotas.
+114.460239	136.858871	La semana pasada en la poblacion de Corinto en Morazan se produjo un enfrentamiento entre guardias nacionales contra los patrulleros paramilitares, resultando heridos dos agentes de la guardia nacional. Posteriormente llego un helicoptero y desarmaron a todos los paramilitares y se llevaron las armas.
+137.288976	160.790780	Hemos recibido informes que en la pista aerea de la ciudad de Gotera, cabecera departamental de Morazan, una noche de la semana pasada se registro un enfrentamiento entre soldados y oficiales pertenecientes al cuartel de contrainsurgencia que dejo como saldo un oficial muerto y varios soldados gravemente heridos. 
+161.283789	173.966607	Ante los comentarios de la poblacion quisieron ocultar sus fuertes contradicciones afirmando que habian sido atacados por mas de 200 guerrilleros.
+182.709306	215.567949	Duarte, un hombre de paja, afirma expresidente de Venezuela. El expresidente venezolano Carlos Andres Perez, declaro en Caracas que los imperialistas norteamericanos afirman enganosamente, que en America Latina lo que existe es una lucha entre comunismo y anticomunismo, y consideran a los militares mas reaccionarios como la mejor garantia de sus intereses. 
+216.312038	241.886850	El exmandatario afirmo que el problema en America Latina no es el comunismo sino el respecto a los derechos humanos. Asi mismo, dijo que al identificarse la linea politica de Venezuela con la nueva politica del gobierno de Estados Unidos, el pais suramericano esta cayendo en una grave confusion.
+265.955392	275.142841	Aunque la realidad es que en El Salvador gobiernan los militares que torturan y violan los derechos humanos.
+280.022143	292.750422	Ametralladora
+292.750422	309.132189	Venceremos, venceremos, mil cademos habra que romper. Venceremos, venceremos, la miseria sabremos vencer.
+309.132189	338.949362	De esta manera Radio Venceremos, voz oficial del Frente Farabundo Marti para la Liberacion Nacional llega al final de sus emisiones de esta hora. Radio Venceremos todos los dias en el aire de 6 a 7  en la manana y de 6 a 7 en la tarde. Radio Venceremos, expresion del poder popular sobre territorios controlados por nuestro pueblo en armas.  
+339.224772	348.598859	Unidos para combatir hasta la victoria final, revolucion o muerte, venceremos.
+352.309435	393.906946	Todos juntos seremos la historia a cumplir, a cumplir, a cumplir. Venceremos, venceremos, mil cademos habra que romper. Venceremos, venceremos, la miseria sabremos vencer. Venceremos, venceremos, mil cademos habra que romper. Venceremos, venceremos, la miseria sabremos vencer.
+9.917962	22.482682	Efectos de sonido
+36.875846	63.860967	Contexto politico
+63.860967	102.333783	Desaparecidos
+114.460239	136.900728	Enfretamiento
+137.287543	160.806012	Bajas
+161.293442	173.966607	Contexto Politico
+182.709306	215.580894	Contexto Politico
+216.312038	241.883296	Contexto Politico
+265.955392	275.138676	Radio Venceremos
+280.022143	292.747064	Efectos de sonido
+292.747064	309.135623	Musica
+309.136878	338.946234	Radio Venceremos
+339.224772	348.603429	Radio Venceremos
+352.309435	393.903901	Musica

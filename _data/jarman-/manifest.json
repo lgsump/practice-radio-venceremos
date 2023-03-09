@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/practice-radio-venceremos/jarman-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Jarman " ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/i-sit-here-immobile-translucence",
+        "type": "Text",
+        "label": { "en": [ "Jarman " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 105,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801607.us.archive.org/19/items/i-sit-here-immobile-translucence/I%20sit%20here%20immobile%20-%20Translucence%20.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 105
+                },
+                "target": "https://lgsump.github.io/practice-radio-venceremos/jarman-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
